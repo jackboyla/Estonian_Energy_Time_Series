@@ -1,4 +1,4 @@
-# Estonian_Energy_Time_Series
+# Estonian Energy Price & Production Time Series Analysis
 
 ## Data Description
 
